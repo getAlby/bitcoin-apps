@@ -1,5 +1,6 @@
 import type { DiscoverApp } from "../types/discover";
 import { imagePathFor, platformIconsFor } from "../lib/discover";
+import { assetPath } from "../lib/assets";
 
 interface PlatformIconsProps {
   app: DiscoverApp;
@@ -29,7 +30,7 @@ interface AppImageProps {
 }
 
 export function AppImage({ app, className }: AppImageProps) {
-  const fallback = "/images/discover/alby-hub.png";
+  const fallback = assetPath("images/discover/alby-hub.png");
   const imagePath = imagePathFor(app);
   return (
     <img

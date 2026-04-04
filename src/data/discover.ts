@@ -89,10 +89,10 @@ export const PROTOCOL_OPTIONS: Array<{ label: string; value: ProtocolId }> = [
 export const FEATURED_TITLES = ["Alby Hub", "PayPerQ", "Wave Space"] as const;
 
 export const PLATFORM_ICON_MAP: Record<PlatformId, string> = {
-  web: "/images/icons/web.svg",
-  ios: "/images/icons/ios.svg",
-  android: "/images/icons/android.svg",
-  desktop: "/images/icons/desktop.svg",
+  web: "images/icons/web.svg",
+  ios: "images/icons/ios.svg",
+  android: "images/icons/android.svg",
+  desktop: "images/icons/desktop.svg",
 };
 
 export const WALLET_SUBCATEGORY_ORDER: WalletSubcategoryId[] = [

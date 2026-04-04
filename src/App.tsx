@@ -25,6 +25,7 @@ import { FeaturedCard } from "./components/featured-card";
 import { AppCard } from "./components/app-card";
 import { FooterCta } from "./components/footer-cta";
 import { Card } from "./components/ui/card";
+import { assetPath } from "./lib/assets";
 
 function App() {
   const [filters, setFilters] = useState<DiscoverFilters>(() => parseFiltersFromSearch(window.location.search));
@@ -55,7 +56,7 @@ function App() {
     <main className="bg-white">
       <section>
         <div className="discover-entry-image mx-auto mb-8 max-w-discover px-4 lg:px-0">
-          <img src="/images/discover/top-background.png" alt="Discover apps banner" className="h-auto w-full object-cover" />
+          <img src={assetPath("images/discover/top-background.png")} alt="Discover apps banner" className="h-auto w-full object-cover" />
         </div>
         <div className="mx-auto max-w-discover px-4 text-center">
           <h1 className="discover-entry-title mx-auto mb-4 font-['Figtree'] text-5xl font-bold leading-[110%] tracking-[-0.01em] sm:mb-8 sm:text-7xl">

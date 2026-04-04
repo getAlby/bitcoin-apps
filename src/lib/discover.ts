@@ -4,6 +4,7 @@ import {
   PLATFORM_ICON_MAP,
   WALLET_SUBCATEGORY_ORDER,
 } from "../data/discover";
+import { assetPath } from "./assets";
 import type {
   CategoryId,
   DiscoverApp,
@@ -49,9 +50,9 @@ export function platformIconsFor(app: DiscoverApp) {
 
 export function imagePathFor(app: DiscoverApp) {
   if (app.image) {
-    return `/images/discover/${app.image.replace("pages/discover/", "")}`;
+    return assetPath(`images/discover/${app.image.replace("pages/discover/", "")}`);
   }
-  return `/images/discover/${parameterize(app.title)}.png`;
+  return assetPath(`images/discover/${parameterize(app.title)}.png`);
 }
 
 export function matchesFilters(app: DiscoverApp, filters: DiscoverFilters) {
@@ -123,4 +124,3 @@ export function toSearchParams(filters: DiscoverFilters) {
   if (filters.q.trim().length > 0) params.set("q", filters.q.trim());
   return params;
 }
-

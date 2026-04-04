@@ -1,10 +1,11 @@
 import { Button } from "./ui/button";
+import { assetPath } from "../lib/assets";
 
 export function FooterCta() {
   return (
     <section className="mb-0 mt-10">
       <div className="relative overflow-hidden rounded-[32px]">
-        <img src="/images/discover/footer-background.png" alt="Footer background" className="block h-auto w-full" />
+        <img src={assetPath("images/discover/footer-background.png")} alt="Footer background" className="block h-auto w-full" />
         <div className="absolute inset-0 z-10 flex flex-col items-center justify-center px-6 text-center">
           <h2 className="font-['Figtree'] text-5xl font-bold leading-[110%] tracking-[-0.01em] text-secondary sm:text-7xl">
             Enjoy
@@ -38,4 +39,3 @@ export function FooterCta() {
     </section>
   );
 }
-
