@@ -1,0 +1,2449 @@
+[
+  {
+    "categories": [
+      "ai"
+    ],
+    "title": "Alby Bitcoin Payments MCP",
+    "description": "Make any MCP-compatible agent payment-capable instantly.",
+    "url": "https://github.com/getalby/mcp?utm_source=getalby",
+    "platforms": [
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "ai"
+    ],
+    "title": "Alby Bitcoin Builder Skill",
+    "description": "Generate Lightning-powered apps, payment flows, and wallet logic in minutes — ready to test and ship.",
+    "url": "https://github.com/getAlby/alby-agent-skill?tab=readme-ov-file&utm_source=getalby",
+    "platforms": [
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "ai"
+    ],
+    "title": "Alby Bitcoin Wallet Skill",
+    "description": "Give your agent its own wallet — and let it operate independently. Perfect for autonomous agents like OpenClaw.",
+    "url": "https://github.com/getAlby/alby-cli-skill?tab=readme-ov-file&utm_source=getalby",
+    "platforms": [
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "ai"
+    ],
+    "title": "Alby PaidMCP",
+    "description": "Monetize your MCPs and transform them into revenue-generating tools.",
+    "url": "https://github.com/getAlby/paidmcp/?utm_source=getalby",
+    "platforms": [
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "ai"
+    ],
+    "title": "Cascdr",
+    "description": "Build chained workflows of AI apps and API services",
+    "url": "https://cascdr.xyz/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc",
+      "bitcoin_connect"
+    ],
+    "products": [
+      "alby_go"
+    ]
+  },
+  {
+    "categories": [
+      "ai"
+    ],
+    "title": "PayPerQ",
+    "description": "GPT4, DALL·E, and more AI chatbots using pay-per-usage model",
+    "url": "https://ppq.ai/invite/6366bd9e?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "ai"
+    ],
+    "title": "Pull that up, Jamie!",
+    "description": "Private web search powered with AI",
+    "url": "https://www.pullthatupjamie.ai/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "ai"
+    ],
+    "title": "Sats4AI",
+    "description": "The best AI models paid with the best money",
+    "url": "https://sats4ai.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc",
+      "bitcoin_connect"
+    ],
+    "products": [
+      "alby_go"
+    ]
+  },
+  {
+    "categories": [
+      "ai"
+    ],
+    "title": "Vendata",
+    "description": "Free marketplace of data-processing AI",
+    "url": "https://vendata-io.vercel.app/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "ai"
+    ],
+    "title": "Shakespeare",
+    "description": "Build apps with AI",
+    "url": "https://shakespeare.diy/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "messangers"
+    ],
+    "title": "Chachi",
+    "description": "Relay-based group chats for Nostr",
+    "url": "https://chachi.chat/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "streaming"
+    ],
+    "title": "CornyChat",
+    "description": "Audio rooms with chat and events scheduling",
+    "url": "https://cornychat.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Flotilla",
+    "description": "Space for communities - Discord clone on Nostr",
+    "url": "https://flotilla.social/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "streaming"
+    ],
+    "title": "HiveTalk",
+    "description": "Free, browser-based video calls, messaging, and screensharing with Nostr login and zaps",
+    "url": "https://hivetalk.org/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc",
+      "bitcoin_connect"
+    ],
+    "products": [
+      "alby_go"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Jumble",
+    "description": "Browse Nostr relay by relay - designed for relay based communities",
+    "url": "https://jumble.social/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc",
+      "bitcoin_connect"
+    ],
+    "products": [
+      "alby_go"
+    ]
+  },
+  {
+    "categories": [
+      "messangers"
+    ],
+    "title": "NostrChat",
+    "description": "Lightweight chat & direct messaging client",
+    "url": "https://www.nostrchat.io/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "streaming"
+    ],
+    "title": "Nostr Nests",
+    "description": "Audio spaces for chatting, jamming, micro-conferences and more",
+    "url": "https://nostrnests.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Satellite",
+    "description": "Modern Nostr client focused on communities",
+    "url": "https://satellite.earth/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Satlantis",
+    "description": "Local communities, guides and events for a Bitcoin standard",
+    "url": "https://satlantis.io/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "entertainment"
+    ],
+    "title": "Disctopia",
+    "description": "Music, podcast and video streaming platform",
+    "url": "https://disctopia.com/?utm_source=getalby",
+    "platforms": [
+      "web",
+      "android"
+    ],
+    "products": [
+      "alby_account"
+    ],
+    "image": "pages/discover/disctopia.png"
+  },
+  {
+    "categories": [
+      "entertainment"
+    ],
+    "title": "IndeeHub",
+    "description": "VOD 2.0, where the audience streams sats directly to films creators",
+    "url": "https://indeehub.studio/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "entertainment"
+    ],
+    "title": "Sunami",
+    "description": "Listen and publish music on Nostr and RSS",
+    "url": "https://sunami.app/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Stacker News",
+    "description": "Hacker News-like site with bitcoin payments",
+    "url": "https://stacker.news/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "music"
+    ],
+    "title": "Wavlake",
+    "description": "Music streaming with direct contributions to creators",
+    "url": "https://www.wavlake.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "shopping"
+    ],
+    "title": "Bitrefill",
+    "description": "Buy vouchers, refill your phone or pay your bills",
+    "url": "https://www.bitrefill.com/buy/?code=5vgqxi7y&utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "categories": [
+      "shopping"
+    ],
+    "title": "Travala",
+    "description": "Book hotels, flights, and activities with bitcoin",
+    "url": "https://www.travala.com/?utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "categories": [
+      "shopping"
+    ],
+    "title": "BTC Map",
+    "description": "Easily find places to spend sats anywhere on the planet",
+    "url": "https://btcmap.org/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "categories": [
+      "shopping"
+    ],
+    "title": "Coincards",
+    "description": "Shop for gift cards, mobile top ups & prepaid vouchers",
+    "url": "https://coincards.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "shopping"
+    ],
+    "title": "Plebeian Market",
+    "description": "Sovereign P2P marketplace powered by Nostr",
+    "url": "https://plebeian.market/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "shopping"
+    ],
+    "title": "SatsMobi.com",
+    "description": "Purchase Bitcoin merchandise and gadgets with bitcoin",
+    "url": "https://satsmobi.com?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "shopping"
+    ],
+    "title": "ShopinBit",
+    "description": "Shop, concierge & travel agency - all for sats",
+    "url": "https://shopinbit.com/?sPartner=alby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "shopping"
+    ],
+    "title": "Shopstr",
+    "description": "P2P Marketplace of anything, powered with Cashu, Lightning and Nostr",
+    "url": "https://shopstr.store/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "shopping"
+    ],
+    "title": "CoinsBee",
+    "description": "Buy gift cards and mobile phone credit",
+    "url": "https://www.coinsbee.com/de?mtm_campaign=getalby&utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "categories": [
+      "rewards"
+    ],
+    "title": "Oshi Rewards",
+    "description": "Discover local businesses offering you bitcoin rewards",
+    "url": "https://oshi.tech/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "rewards"
+    ],
+    "title": "Satsback",
+    "description": "Earn bitcoin cashback whenever you shop online",
+    "url": "https://satsback.com/?utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "categories": [
+      "rewards"
+    ],
+    "title": "Satogram",
+    "description": "Text ads over lightning network where recipient is paid",
+    "url": "https://satogram.xyz/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "rewards"
+    ],
+    "title": "Satsfaucet",
+    "description": "Bitcoin rewards for testing apps, games and surveys",
+    "url": "https://www.satsfaucet.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "rewards"
+    ],
+    "title": "Slice",
+    "description": "Stack sats by browsing the web with curated ads",
+    "url": "https://addslice.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "rewards"
+    ],
+    "title": "sMiles",
+    "description": "Earn sats by playing games, watching ads, and even… walking",
+    "url": "https://www.smilesbitcoin.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "categories": [
+      "rewards"
+    ],
+    "title": "The Bitcoin Company",
+    "description": "Buy private Visa & gift cards. Get satsback rewards",
+    "url": "https://thebitcoincompany.com/?utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "categories": [
+      "podcast_players"
+    ],
+    "title": "Castamatic",
+    "description": "Your favorite podcast player for iOS devices",
+    "url": "https://castamatic.com/?utm_source=getalby",
+    "platforms": [
+      "ios"
+    ],
+    "products": [
+      "alby_account"
+    ]
+  },
+  {
+    "categories": [
+      "podcast_players"
+    ],
+    "title": "Podcast Guru",
+    "description": "Podcast Guru is the simple and free podcast player",
+    "url": "https://podcastguru.io/?utm_source=getalby",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "products": [
+      "alby_account"
+    ]
+  },
+  {
+    "categories": [
+      "podcast_players"
+    ],
+    "title": "TrueFans",
+    "description": "Podcast fans can support podcasts as they listen",
+    "url": "https://truefans.fm/?utm_source=getalby",
+    "platforms": [
+      "web",
+      "android",
+      "ios"
+    ],
+    "products": [
+      "alby_account"
+    ]
+  },
+  {
+    "categories": [
+      "podcast_players"
+    ],
+    "title": "Podfriend",
+    "description": "Discover podcasts & value them with bitcoin",
+    "url": "https://www.podfriend.com/?utm_source=getalby",
+    "platforms": [
+      "web",
+      "desktop",
+      "ios",
+      "android"
+    ],
+    "products": [
+      "alby_account"
+    ]
+  },
+  {
+    "categories": [
+      "podcast_players"
+    ],
+    "title": "Podverse",
+    "description": "Mobile and web, feature rich podcasting 2.0 player",
+    "url": "https://podverse.fm/?utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "desktop"
+    ],
+    "products": [
+      "alby_account"
+    ]
+  },
+  {
+    "categories": [
+      "podcast_players"
+    ],
+    "title": "Blubrry",
+    "description": "Allow podcast listeners to support you with bitcoin",
+    "url": "https://blubrry.com/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "products": [
+      "alby_account"
+    ]
+  },
+  {
+    "categories": [
+      "podcast_players"
+    ],
+    "title": "LetsCast",
+    "description": "Simple & elegant podcast hosting",
+    "url": "https://letscast.fm/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "products": [
+      "alby_account"
+    ]
+  },
+  {
+    "categories": [
+      "music"
+    ],
+    "title": "LNbeats",
+    "description": "Publish your music & earn sats from listeners",
+    "url": "https://lnbeats.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "products": [
+      "alby_account"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Nostr.build",
+    "description": "Free media uploader to Nostr, privacy-focused, with API ",
+    "url": "https://nostr.build/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Npub.pro",
+    "description": "Easy to set up, self-hostable, nostr-based websites",
+    "url": "https://npub.pro/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "podcast_players"
+    ],
+    "title": "Podhome",
+    "description": "Podcaster's suite with value 4 value and AI transcripts",
+    "url": "https://podhome.fm/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web",
+      "desktop",
+      "ios",
+      "android"
+    ],
+    "products": [
+      "alby_account"
+    ]
+  },
+  {
+    "categories": [
+      "podcast_players"
+    ],
+    "title": "RSS.com",
+    "description": "Receive bitcoin & boostagrams for your podcast",
+    "url": "https://rss.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "products": [
+      "alby_account"
+    ]
+  },
+  {
+    "categories": [
+      "podcast_players"
+    ],
+    "title": "RSS Blue",
+    "description": "Host value4value-enabled podcast",
+    "url": "https://rssblue.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "podcast_players"
+    ],
+    "title": "Transcribe.fm",
+    "description": "Lightning-fast transcripts for your podcast",
+    "url": "http://transcribe.fm/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "products": [
+      "alby_account"
+    ]
+  },
+  {
+    "categories": [
+      "podcast_players"
+    ],
+    "title": "Podcast Index",
+    "description": "Open database of podcasts with support for Value4Value payments",
+    "url": "https://podcastindex.org/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "streaming"
+    ],
+    "title": "Zap.stream",
+    "description": "Platform for live streaming and chat with zaps",
+    "url": "https://zap.stream/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Amethyst",
+    "description": "Android app with communities & live streaming",
+    "url": "https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst&hl=de&gl=US&utm_source=getalby",
+    "platforms": [
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Coracle",
+    "description": "Innovative client with a calendar, groups and markets",
+    "url": "https://coracle.social/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Damus",
+    "description": "Beloved Nostr client for iOS and Android",
+    "url": "https://damus.io/?utm_source=getalby",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Ditto",
+    "description": "Nostr community server with Mastodon support and buil-in relay",
+    "url": "https://ditto.pub/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Freerse",
+    "description": "Simple and easy Twitter-like client for iOS and Android",
+    "url": "https://freerse.com/?utm_source=getalby",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "publisher_tools"
+    ],
+    "title": "Habla",
+    "description": "Read, write, curate and monetize long form content",
+    "url": "https://habla.news/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Iris",
+    "description": "Web-based and iOS Nostr client for better social networks",
+    "url": "https://iris.to/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Listr",
+    "description": "Curate, organize and discover Nostr collections for you and public",
+    "url": "https://listr.lol/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "entertainment"
+    ],
+    "title": "Lumina",
+    "description": "Discover photos and images posted on Nostr",
+    "url": "https://lumina.rocks/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Noogle",
+    "description": "Decentralized search, recommendations, image generation and DVMs",
+    "url": "https://noogle.lol/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Nosbin",
+    "description": "Decentralized pasting platform",
+    "url": "https://nosbin.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Nostr Apps",
+    "description": "Check out the lastest and greatest Nostr apps out there",
+    "url": "https://www.nostrapps.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Nostrcheck",
+    "description": "Nostr toolbox: file gallery, profile editor, NIP-05, private relay and more",
+    "url": "https://nostrcheck.me/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Nostree",
+    "description": "Nostr-based mini app to create, manage and discover lists of links",
+    "url": "https://nostree.me/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "noStrudel",
+    "description": "Platform for notes and streaming over Nostr",
+    "url": "https://nostrudel.ninja/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc",
+      "bitcoin_connect"
+    ],
+    "products": [
+      "alby_go"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Nostter",
+    "description": "Lightweight, elegant client with NWC",
+    "url": "https://nostter.app/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Nostur",
+    "description": "iOS and macOS Nostr client with multi-account support",
+    "url": "https://nostur.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "ios",
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "entertainment"
+    ],
+    "title": "Pinstr",
+    "description": "Discover new ideas, inspiration, or share content",
+    "url": "https://pinstr.app/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities",
+      "wallets"
+    ],
+    "title": "Primal",
+    "description": "Fast, multiplatform Nostr client and wallet",
+    "url": "https://primal.net/?utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "nwc_wallets"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Rabbit",
+    "description": "Lightweight web Nostr client with multi-column layout",
+    "url": "https://rabbit.syusui.net/?utm_source=getalby#/?ref=getalby.com",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Snort",
+    "description": "Minimalistic & fast Nostr web client",
+    "url": "https://snort.social/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Yakihonne",
+    "description": "A decentralized long-form content media platform",
+    "url": "https://yakihonne.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web",
+      "android",
+      "ios"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "zapddit",
+    "description": "A reddit-style Nostr client with communities",
+    "url": "https://zapddit.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "trading"
+    ],
+    "title": "Boltz",
+    "description": "Exchange between onchain, Lightning & Liquid",
+    "url": "https://boltz.exchange/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "trading"
+    ],
+    "title": "Lnfi",
+    "description": "Financialisation layer for Taproot Assets on Lightning & Nostr",
+    "url": "https://lnfi.network/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "trading"
+    ],
+    "title": "LNMarkets",
+    "description": "Lightning bitcoin-derivatives trading platform",
+    "url": "https://lnmarkets.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "trading"
+    ],
+    "title": "Pocket",
+    "description": "Buy bitcoin directly from your bank to your lightning wallet",
+    "url": "https://pocketbitcoin.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "trading"
+    ],
+    "title": "Mt Pelerin",
+    "description": "Buy and sell bitcoin with via bank transfer or cards",
+    "url": "https://www.mtpelerin.com/buy-bitcoin-lightning?rfr=alby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "trading"
+    ],
+    "title": "Bringin",
+    "description": "The fastest way to buy and sell bitcoin in Europe",
+    "url": "https://spend.bringin.xyz/signup?affiliate=ALBY25&utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "trading"
+    ],
+    "title": "Robosats",
+    "description": "Super private Lightning P2P exchange and on-chain swaps",
+    "url": "https://learn.robosats.org/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "ChainDuel",
+    "description": "Win or lose sats in the multiplayer game of bitcoin snake",
+    "url": "https://game.chainduel.net/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "Clinch",
+    "description": "Non-custodial, p2p wagering API: play against your friends",
+    "url": "https://clinch.gg/?wpsrc=Alby&wpcn=cross_promo_Alby_link&utm_campaign=cross_promo_Alby_link&utm_source=Alby&utm_medium=partner",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "Lightning Baccarat",
+    "description": "Casino games on Lightning, provably fair",
+    "url": "https://lightning-baccarat.com/?utm_source=alby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "Conway's Game of Pacman",
+    "description": "Pacman with moving walls",
+    "url": "https://conwaysgameofpacman.xyz/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "Turtle",
+    "description": "The better version of Wordle with bitcoin",
+    "url": "https://www.turtlewordgame.xyz/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "Lightning Plinko",
+    "description": "Drop sats down the triangle pegged board & win prizes",
+    "url": "https://lightning-plinko.com/?utm_source=alby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "Lightning Poker",
+    "description": "Dozen tables of bitcoin Texas Hold'em Poker",
+    "url": "https://lightning-poker.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "Lightning Roulette",
+    "description": "Open source roulette app, provably fair",
+    "url": "https://lightning-roulette.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "Lightning Tic-Tac-Toe",
+    "description": "Tic-tac-toe game in a team mode, with sats on stake",
+    "url": "https://lntictactoe.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "LNBlackJack",
+    "description": "Provably fair blackjack on Bitcoin Lightning",
+    "url": "https://www.lnblackjack.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "LNScratch",
+    "description": "Digital scratch card game to win bitcoin",
+    "url": "https://lnscratch.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "Satoshi Settlers",
+    "description": "Shared map game of owning and managing resources - Bitcoin blocks",
+    "url": "https://satoshisettlers.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "Satoshi's Place",
+    "description": "Collaborative artboard powered by Lightning",
+    "url": "https://satoshis.place/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "gaming"
+    ],
+    "title": "Zappy Bird",
+    "description": "Classic game of flappy bird where points are sats",
+    "url": "https://rolznz.github.io/zappy-bird/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc",
+      "bitcoin_connect"
+    ],
+    "products": [
+      "alby_go"
+    ]
+  },
+  {
+    "categories": [
+      "node_management",
+      "wallets"
+    ],
+    "title": "Alby Hub",
+    "description": "Bitcoin wallet with superpowers. Connect to dozens of apps and use on any device, anytime, anywhere.",
+    "url": "https://getalby.com/alby-hub?utm_source=getalby",
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "nwc_wallets"
+    ]
+  },
+  {
+    "categories": [
+      "node_management"
+    ],
+    "title": "Amboss",
+    "description": "Lightning network explorer and analytics tools",
+    "url": "https://amboss.space/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "node_management"
+    ],
+    "title": "SimLN",
+    "description": "Test your app with simulated Lightning network activity",
+    "url": "https://simln.dev/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "wallets"
+    ],
+    "title": "Alby Go",
+    "description": "The easiest mobile interface for Alby Hub and NWC wallets",
+    "url": "https://albygo.com/?ref=albydiscover&utm_source=getalby",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "wallets"
+    ],
+    "title": "Anser",
+    "description": "Web wallet for Liquid Network for Alby Extension",
+    "url": "https://anser.frk.wf/app/index.html?utm_source=getalby#wallet",
+    "platforms": [
+      "web"
+    ],
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "BTCPay Server",
+    "description": "Bitcoin payment processor with many integrations and merchant features",
+    "url": "https://btcpayserver.org?ref=getalby.com/&utm_source=getalby",
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "NakaPay",
+    "description": "Accept bitcoin payments with lightning speed",
+    "url": "https://www.nakapay.app/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "BuzzPay",
+    "description": "Point-of-sale interface to NWC powered wallets",
+    "url": "https://pos.albylabs.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc",
+      "bitcoin_connect"
+    ],
+    "products": [
+      "alby_go"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "Clams",
+    "description": "Accounting platform for your multiple Bitcoin wallets",
+    "url": "https://clams.tech/?ref=alby&utm_source=getalby",
+    "platforms": [
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "payments",
+      "wallets"
+    ],
+    "title": "Flash",
+    "description": "Instant & multi-feature Lightning payment gateway",
+    "url": "https://paywithflash.com/?ref=alby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "wallets"
+    ],
+    "title": "Flash Wallet",
+    "description": "Easy non-custodial bitcoin lightning wallet",
+    "url": "https://paywithflash.com/wallet/?utm_source=getalby",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "nwc_wallets"
+    ]
+  },
+  {
+    "categories": [
+      "payments",
+      "wallets"
+    ],
+    "title": "Portal",
+    "description": "App to manage credentials and subscription payments",
+    "url": "https://getportal.cc/?utm_source=getalby",
+    "platforms": [
+      "ios"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "payments",
+      "wallets"
+    ],
+    "title": "LNbits",
+    "description": "Lightning wallet accounts system with Alby as a funding source",
+    "url": "https://lnbits.com/?ref=alby&utm_source=getalby",
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "products": [
+      "alby_account"
+    ],
+    "walletSubcategory": [
+      "nwc_wallets"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "npub.cash",
+    "description": "Lightning Address for everyone, powered by eCash and Nostr",
+    "url": "https://npub.cash/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "PubPay",
+    "description": "Public payments feed, requests, crowdfunding",
+    "url": "https://www.pubpay.me/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "ZapPlanner",
+    "description": "Periodic payments in custom time intervals",
+    "url": "https://zapplanner.albylabs.com?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc",
+      "bitcoin_connect"
+    ],
+    "products": [
+      "alby_go"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "Zaprite",
+    "description": "Serverless Bitcoin payments gateway for any wallet",
+    "url": "https://zaprite.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "wallets"
+    ],
+    "title": "Zeus",
+    "description": "Self-custodial lightning wallet that connects to Alby via NWC and LNDhub",
+    "url": "https://zeusln.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "nwc_wallets",
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "privacy"
+    ],
+    "title": "Crypton",
+    "description": "Non-KYC phone numbers in the cloud to send and receive SMS",
+    "url": "https://crypton.sh/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "privacy"
+    ],
+    "title": "SatoshiSend",
+    "description": "Share files securely with end-to-end encryption.",
+    "url": "https://satoshisend.xyz/",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "privacy"
+    ],
+    "title": "Mullvad VPN",
+    "description": "Simple and experienced VPN provider",
+    "url": "https://mullvad.net/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "privacy"
+    ],
+    "title": "LNeSIM",
+    "description": "Buy non-KYC travel eSIM with Lightning",
+    "url": "https://www.lnesim.com/?utm_source=alby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "privacy"
+    ],
+    "title": "LNVPN",
+    "description": "VPN and burner phone numbers, non-KYC",
+    "url": "https://lnvpn.net/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "privacy"
+    ],
+    "title": "Obscura",
+    "description": "Privacy-first VPN that can’t log your activity",
+    "url": "https://obscura.net/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "privacy"
+    ],
+    "title": "Silent Link",
+    "description": "E-sim cards paid with bitcoin",
+    "url": "https://silent.link/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "privacy"
+    ],
+    "title": "Sms4sats",
+    "description": "Send and receive SMS anonymously",
+    "url": "https://sms4sats.com/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "privacy"
+    ],
+    "title": "TunnelSats",
+    "description": "VPN for lightning nodes",
+    "url": "https://tunnelsats.com/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "privacy"
+    ],
+    "title": "VPNSTR",
+    "description": "High-speed and secure VPN, paid with Lightning",
+    "url": "https://www.vpnstr.com/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Airbtc",
+    "description": " Accommodation rentals exclusively with Bitcoin",
+    "url": "https://airbtc.online/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "wallets"
+    ],
+    "title": "Alby Extension",
+    "description": "Browser extension for lightning wallets interaction with the web",
+    "url": "https://getalby.com/alby-extension/?ref=albydiscover&utm_source=getalby",
+    "platforms": [
+      "desktop",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "products": [
+      "alby_extension"
+    ],
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "BitcoinFax",
+    "description": "Send fax from a website, use Alby to pay with Lightning",
+    "url": "https://www.bitcoinfax.net/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Cal.com",
+    "description": "Scheduling app where meetings are paid in bitcoin",
+    "url": "https://cal.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Dtan.xyz",
+    "description": "Decentralized torrent tracker and search engine",
+    "url": "https://dtan.xyz/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Formstr",
+    "description": "Open-source form builder on Nostr",
+    "url": "https://formstr.app/?ref=alby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Geyser",
+    "description": "Manage crowdfunding projects & campaigns",
+    "url": "https://geyser.fund/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Gitworkshop",
+    "description": "Decentralized git workflow on Nostr",
+    "url": "https://gitworkshop.dev/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Lightsats",
+    "description": "Onboard people to Bitcoin by sending them tips",
+    "url": "https://lightsats.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "LNCal.com",
+    "description": "Pay in bitcoin for scheduling meetings",
+    "url": "https://lncal.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Plebdevs",
+    "description": "Online courses and community for aspiring Bitcoin & Lightning developers",
+    "url": "https://plebdevs.com/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Pollerama",
+    "description": "Display and publish polls and surveys on Nostr",
+    "url": "https://pollerama.fun/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "SIGit",
+    "description": "Decentralised, encrypted document signing tool using Nostr keys",
+    "url": "https://sigit.io/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Slidestr",
+    "description": "Create a slideshow of Nostr-hashtagged images",
+    "url": "https://slidestr.net/?ref=getalby&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "wallets"
+    ],
+    "title": "Vortex",
+    "description": "The fastest way to control your lightning wallets on desktop. Raycast plugin for NWC wallets.",
+    "url": "https://www.raycast.com/saunter/vortex?utm_source=getalby",
+    "platforms": [
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Wherostr",
+    "description": "Map of geotagged Nostr events powered by OpenStreetMap",
+    "url": "https://wherostr.social/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Yondar Map",
+    "description": "Global map with geotags over Nostr",
+    "url": "https://go.yondar.me/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Zap.cooking",
+    "description": "Open-source recipe-sharing client",
+    "url": "https://zap.cooking/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "ZapAdd",
+    "description": "Send zapvertising - bulk zaps with messages",
+    "url": "https://zapadd.com/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Zapin.me",
+    "description": "Drop pins with lightning messages on a public map",
+    "url": "https://zapin.me/?ref=getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "ai"
+    ],
+    "title": "AskExperts",
+    "description": "Create AI experts, discover them, ask them questions privately and pay for the answers using...",
+    "url": "https://proxy.askexperts.io/?utm_source=getalby",
+    "platforms": [
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "ai"
+    ],
+    "title": "LNFly",
+    "description": "Prototype lightning apps with a single prompt",
+    "url": "https://lnfly.albylabs.com/?ref=blog.getalby.com&utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Alby Sandbox",
+    "description": "Explore lightning payment scenarios",
+    "url": "https://sandbox.albylabs.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc",
+      "bitcoin_connect"
+    ],
+    "products": [
+      "alby_go"
+    ]
+  },
+  {
+    "categories": [
+      "ai"
+    ],
+    "title": "Start with Bitcoin",
+    "description": "Give your AI agents identity, wallet, and autonomous payment capabilities using Lightning Network",
+    "url": "https://www.startwithbitcoin.com/?utm_source=getalby",
+    "platforms": [
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "trading"
+    ],
+    "title": "Bitcoin Well",
+    "description": "Bitcoin exchange that sends purchased bitcoin directly to your wallet",
+    "url": "https://bitcoinwell.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "trading"
+    ],
+    "title": "Aureo",
+    "description": "Mexican bitcoin exchange with NWC integration",
+    "url": "https://www.aureobitcoin.com/en?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "trading"
+    ],
+    "title": "Wave Space",
+    "description": "Live on bitcoin using a debit card with automatic topups powered by NWC",
+    "url": "https://www.wave.space/card?utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "Cashu Redeem",
+    "description": "Redeem cashu tokens to your NWC wallet",
+    "url": "https://redeem.cashu.me/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc",
+      "bitcoin_connect"
+    ],
+    "products": [
+      "alby_go"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "Sat Sorter",
+    "description": "Bitcoin budgeting app",
+    "url": "https://satsorter.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "Zap Tracker",
+    "description": "Analytics dashboards for lightning insights",
+    "url": "https://zap-tracker.netlify.app/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "publisher_tools"
+    ],
+    "title": "Highlighter",
+    "description": "Highlighter stands out by offering creators true ownership of their audience",
+    "url": "https://highlighter.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "Musqet",
+    "description": "Securely accept payments in store or online and receive Bitcoin from anywhere in the world",
+    "url": "https://musqet.tech/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "Take My Sats",
+    "description": "Create your online store and start accepting bitcoin payments instantly",
+    "url": "https://www.takemysats.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "misc"
+    ],
+    "title": "Zapstore",
+    "description": "Open, permissionless app store with zaps",
+    "url": "https://zapstore.dev?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "podcast_players"
+    ],
+    "title": "Fountain",
+    "description": "Music & Podcasting 2.0 app",
+    "url": "https://www.fountain.fm/?utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "shopping"
+    ],
+    "title": "The Bullish Shop",
+    "description": "Bitcoin fashion and merchandise store",
+    "url": "https://www.thebullish.shop/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "FreeFrom",
+    "description": "Closed-source, Twitter-like client for Android and iOS",
+    "url": "https://freefrom.space/?utm_source=getalby",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Nostr Kiwi",
+    "description": "Place for you to share notes & curate content in communities",
+    "url": "https://nostr.kiwi/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Notedeck",
+    "description": "Desktop Nostr client for power users",
+    "url": "https://damus.io/notedeck/?utm_source=getalby",
+    "platforms": [
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Olas",
+    "description": "Instagram-like Nostr app for iOS",
+    "url": "https://olas.app/?utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities",
+      "wallets"
+    ],
+    "title": "Club Orange",
+    "description": "Social media app for Bitcoiners with built-in wallet",
+    "url": "https://www.cluborange.org/?utm_source=getalby",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "nwc_wallets"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Yana",
+    "description": "Yet another Nostr app for Android and iOS",
+    "url": "https://github.com/frnandu/yana?utm_source=getalby",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
+    "title": "Zappix",
+    "description": "Nostr image sharing client",
+    "url": "https://zappix.app/home?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  },
+  {
+    "categories": [
+      "wallets"
+    ],
+    "title": "ThunderTip",
+    "description": "Telegram tipping bot via your own connected wallet",
+    "url": "https://t.me/ThunderTip_bot?utm_source=getalby",
+    "platforms": [
+      "web",
+      "desktop",
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "wallets"
+    ],
+    "title": "Discord Zap Bot",
+    "description": "Discord tipping bot via your own connected wallet",
+    "url": "https://www.makeprisms.com/apps?utm_source=getalby",
+    "platforms": [
+      "web",
+      "desktop",
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "wallets"
+    ],
+    "title": "ZapGram",
+    "description": "Bitcoin lightning wallet in Telegram",
+    "url": "https://t.me/zap_gram_bot?utm_source=getalby",
+    "platforms": [
+      "web",
+      "desktop",
+      "ios",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "wallets"
+    ],
+    "title": "Alby Account",
+    "description": "Web account and wallet interface for Alby Hub and other NWC wallets. Comes with a lightning address!",
+    "url": "https://www.getalby.com?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "wallets"
+    ],
+    "title": "Avocadough",
+    "description": "Open source iOS NWC wallet interface",
+    "url": "https://avocadough.xyz/?utm_source=getalby",
+    "platforms": [
+      "ios"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "wallets"
+    ],
+    "title": "BitBanana",
+    "description": "Mobile lightning wallet and node management for Android",
+    "url": "https://bitbanana.app/?utm_source=getalby",
+    "platforms": [
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "payments",
+      "wallets"
+    ],
+    "title": "Bitvora",
+    "description": "Bitcoin lightning API platform for businesses",
+    "url": "https://bitvora.com/?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "nwc_wallets",
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "wallets"
+    ],
+    "title": "BuhoGO",
+    "description": "A community-driven mobile NWC wallet interface",
+    "url": "https://go.mybuho.de/?utm_source=getalby",
+    "platforms": [
+      "web",
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "LaWallet",
+    "description": "Create and manage Boltcard payments to your connected NWC wallets",
+    "url": "https://alpha.lawallet.io/wallet/login?utm_source=getalby",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ]
+  }
+]
