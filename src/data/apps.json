@@ -780,6 +780,7 @@
     "title": "Damus",
     "description": "Beloved Nostr client for iOS and Android",
     "url": "https://damus.io/?utm_source=getalby",
+    "image": "pages/discover/damus.png",
     "platforms": [
       "ios",
       "android"
@@ -1181,6 +1182,7 @@
     "title": "Conway's Game of Pacman",
     "description": "Pacman with moving walls",
     "url": "https://conwaysgameofpacman.xyz/?utm_source=getalby",
+    "image": "pages/discover/conway-s-game-of-pacman.png",
     "platforms": [
       "web"
     ]
@@ -1286,6 +1288,7 @@
     "title": "Satoshi's Place",
     "description": "Collaborative artboard powered by Lightning",
     "url": "https://satoshis.place/?utm_source=getalby",
+    "image": "pages/discover/satoshi-s-place.png",
     "platforms": [
       "web"
     ]
@@ -2212,6 +2215,7 @@
     "title": "Notedeck",
     "description": "Desktop Nostr client for power users",
     "url": "https://damus.io/notedeck/?utm_source=getalby",
+    "image": "pages/discover/damus.png",
     "platforms": [
       "desktop"
     ],
@@ -2291,6 +2295,7 @@
     "title": "ThunderTip",
     "description": "Telegram tipping bot via your own connected wallet",
     "url": "https://t.me/ThunderTip_bot?utm_source=getalby",
+    "image": "pages/discover/thundertip.png",
     "platforms": [
       "web",
       "desktop",
@@ -2311,6 +2316,7 @@
     "title": "Discord Zap Bot",
     "description": "Discord tipping bot via your own connected wallet",
     "url": "https://www.makeprisms.com/apps?utm_source=getalby",
+    "image": "pages/discover/discord-zap-bot.png",
     "platforms": [
       "web",
       "desktop",
