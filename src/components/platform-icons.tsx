@@ -12,13 +12,14 @@ export function PlatformIcons({ app, className }: PlatformIconsProps) {
   return (
     <div className={className ?? "flex flex-wrap items-center gap-3 leading-none"}>
       {icons.map((icon) => (
-        <span key={`${app.title}-${icon}`} className="inline-flex h-4 w-4 items-center justify-center text-zinc-400">
-          <span
-            className="discover-platform-icon h-4 w-4"
-            style={{ ["--platform-icon-url" as string]: `url(${icon})` }}
-            aria-hidden="true"
-          />
-        </span>
+        <img
+          key={`${app.title}-${icon}`}
+          src={icon}
+          alt=""
+          aria-hidden="true"
+          className="h-4 w-4 opacity-45"
+          loading="lazy"
+        />
       ))}
     </div>
   );
