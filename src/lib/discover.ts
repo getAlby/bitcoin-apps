@@ -44,7 +44,7 @@ export function productsFor(app: DiscoverApp): ProductId[] {
 
 export function platformIconsFor(app: DiscoverApp) {
   return platformsFor(app)
-    .map((platform) => PLATFORM_ICON_MAP[platform])
+    .map((platform) => assetPath(PLATFORM_ICON_MAP[platform]))
     .filter(Boolean);
 }
 

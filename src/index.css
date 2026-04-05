@@ -126,7 +126,7 @@
 
   .discover-platform-icon {
     display: inline-block;
-    background-color: #9ca3af;
+    background-color: currentColor;
     -webkit-mask-image: var(--platform-icon-url);
     mask-image: var(--platform-icon-url);
     -webkit-mask-repeat: no-repeat;
