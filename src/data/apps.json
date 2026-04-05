@@ -2295,7 +2295,7 @@
     "title": "ThunderTip",
     "description": "Telegram tipping bot via your own connected wallet",
     "url": "https://t.me/ThunderTip_bot?utm_source=getalby",
-    "image": "pages/discover/thundertip.png",
+    "image": "pages/discover/thundertip.jpg",
     "platforms": [
       "web",
       "desktop",
@@ -2316,7 +2316,7 @@
     "title": "Discord Zap Bot",
     "description": "Discord tipping bot via your own connected wallet",
     "url": "https://www.makeprisms.com/apps?utm_source=getalby",
-    "image": "pages/discover/discord-zap-bot.png",
+    "image": "pages/discover/discord-zap-bot.jpg",
     "platforms": [
       "web",
       "desktop",
