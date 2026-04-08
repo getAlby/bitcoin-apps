@@ -18,7 +18,7 @@
       "ai"
     ],
     "title": "Alby Bitcoin Builder Skill",
-    "description": "Generate Lightning-powered apps, payment flows, and wallet logic in minutes — ready to test and ship.",
+    "description": "Generate Lightning-powered apps, payment flows, and wallet logic in minutes \u2014 ready to test and ship.",
     "url": "https://github.com/getAlby/alby-agent-skill?tab=readme-ov-file&utm_source=getalby",
     "platforms": [
       "desktop"
@@ -32,7 +32,7 @@
       "ai"
     ],
     "title": "Alby Bitcoin Wallet Skill",
-    "description": "Give your agent its own wallet — and let it operate independently. Perfect for autonomous agents like OpenClaw.",
+    "description": "Give your agent its own wallet \u2014 and let it operate independently. Perfect for autonomous agents like OpenClaw.",
     "url": "https://github.com/getAlby/alby-cli-skill?tab=readme-ov-file&utm_source=getalby",
     "platforms": [
       "desktop"
@@ -78,7 +78,7 @@
       "ai"
     ],
     "title": "PayPerQ",
-    "description": "GPT4, DALL·E, and more AI chatbots using pay-per-usage model",
+    "description": "GPT4, DALL\u00b7E, and more AI chatbots using pay-per-usage model",
     "url": "https://ppq.ai/invite/6366bd9e?utm_source=getalby",
     "platforms": [
       "web"
@@ -500,7 +500,7 @@
       "rewards"
     ],
     "title": "sMiles",
-    "description": "Earn sats by playing games, watching ads, and even… walking",
+    "description": "Earn sats by playing games, watching ads, and even\u2026 walking",
     "url": "https://www.smilesbitcoin.com/?ref=getalby.com&utm_source=getalby",
     "platforms": [
       "web",
@@ -916,17 +916,6 @@
     ],
     "protocols": [
       "nwc"
-    ]
-  },
-  {
-    "categories": [
-      "misc"
-    ],
-    "title": "Nostree",
-    "description": "Nostr-based mini app to create, manage and discover lists of links",
-    "url": "https://nostree.me/?utm_source=getalby",
-    "platforms": [
-      "web"
     ]
   },
   {
@@ -1654,7 +1643,7 @@
       "privacy"
     ],
     "title": "Obscura",
-    "description": "Privacy-first VPN that can’t log your activity",
+    "description": "Privacy-first VPN that can\u2019t log your activity",
     "url": "https://obscura.net/?ref=getalby&utm_source=getalby",
     "platforms": [
       "web"
@@ -1953,20 +1942,6 @@
     "categories": [
       "ai"
     ],
-    "title": "AskExperts",
-    "description": "Create AI experts, discover them, ask them questions privately and pay for the answers using...",
-    "url": "https://proxy.askexperts.io/?utm_source=getalby",
-    "platforms": [
-      "desktop"
-    ],
-    "protocols": [
-      "nwc"
-    ]
-  },
-  {
-    "categories": [
-      "ai"
-    ],
     "title": "LNFly",
     "description": "Prototype lightning apps with a single prompt",
     "url": "https://lnfly.albylabs.com/?ref=blog.getalby.com&utm_source=getalby",
@@ -2177,21 +2152,6 @@
     "url": "https://www.thebullish.shop/?utm_source=getalby",
     "platforms": [
       "web"
-    ]
-  },
-  {
-    "categories": [
-      "chats_and_communities"
-    ],
-    "title": "FreeFrom",
-    "description": "Closed-source, Twitter-like client for Android and iOS",
-    "url": "https://freefrom.space/?utm_source=getalby",
-    "platforms": [
-      "ios",
-      "android"
-    ],
-    "protocols": [
-      "nwc"
     ]
   },
   {
@@ -2444,7 +2404,7 @@
     ],
     "title": "LaWallet",
     "description": "Create and manage Boltcard payments to your connected NWC wallets",
-    "url": "https://alpha.lawallet.io/wallet/login?utm_source=getalby",
+    "url": "https://lawallet.io/?utm_source=getalby",
     "platforms": [
       "web"
     ],
