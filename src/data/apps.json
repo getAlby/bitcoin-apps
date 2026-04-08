@@ -11,35 +11,38 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/getalby/mcp"
   },
   {
     "categories": [
       "ai"
     ],
     "title": "Alby Bitcoin Builder Skill",
-    "description": "Generate Lightning-powered apps, payment flows, and wallet logic in minutes — ready to test and ship.",
+    "description": "Generate Lightning-powered apps, payment flows, and wallet logic in minutes \u2014 ready to test and ship.",
     "url": "https://github.com/getAlby/alby-agent-skill?tab=readme-ov-file&utm_source=getalby",
     "platforms": [
       "desktop"
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/getAlby/alby-agent-skill"
   },
   {
     "categories": [
       "ai"
     ],
     "title": "Alby Bitcoin Wallet Skill",
-    "description": "Give your agent its own wallet — and let it operate independently. Perfect for autonomous agents like OpenClaw.",
+    "description": "Give your agent its own wallet \u2014 and let it operate independently. Perfect for autonomous agents like OpenClaw.",
     "url": "https://github.com/getAlby/alby-cli-skill?tab=readme-ov-file&utm_source=getalby",
     "platforms": [
       "desktop"
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/getAlby/alby-cli-skill"
   },
   {
     "categories": [
@@ -53,7 +56,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/getAlby/paidmcp"
   },
   {
     "categories": [
@@ -78,7 +82,7 @@
       "ai"
     ],
     "title": "PayPerQ",
-    "description": "GPT4, DALL·E, and more AI chatbots using pay-per-usage model",
+    "description": "GPT4, DALL\u00b7E, and more AI chatbots using pay-per-usage model",
     "url": "https://ppq.ai/invite/6366bd9e?utm_source=getalby",
     "platforms": [
       "web"
@@ -178,7 +182,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/coracle-social/flotilla"
   },
   {
     "categories": [
@@ -196,7 +201,8 @@
     ],
     "products": [
       "alby_go"
-    ]
+    ],
+    "github": "https://github.com/HiveTalk/hivetalksfu"
   },
   {
     "categories": [
@@ -313,7 +319,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/stackernews/stacker.news"
   },
   {
     "categories": [
@@ -423,7 +430,8 @@
     "url": "https://shopstr.store/?ref=getalby.com&utm_source=getalby",
     "platforms": [
       "web"
-    ]
+    ],
+    "github": "https://github.com/shopstr-eng/shopstr"
   },
   {
     "categories": [
@@ -500,7 +508,7 @@
       "rewards"
     ],
     "title": "sMiles",
-    "description": "Earn sats by playing games, watching ads, and even… walking",
+    "description": "Earn sats by playing games, watching ads, and even\u2026 walking",
     "url": "https://www.smilesbitcoin.com/?ref=getalby.com&utm_source=getalby",
     "platforms": [
       "web",
@@ -651,7 +659,8 @@
     "url": "https://nostr.build/?ref=getalby.com&utm_source=getalby",
     "platforms": [
       "web"
-    ]
+    ],
+    "github": "https://github.com/nostrbuild/nostr.build"
   },
   {
     "categories": [
@@ -757,7 +766,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/vitorpamplona/amethyst"
   },
   {
     "categories": [
@@ -771,7 +781,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/coracle-social/coracle"
   },
   {
     "categories": [
@@ -787,7 +798,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/damus-io/damus"
   },
   {
     "categories": [
@@ -816,7 +828,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/Freerse/Freerse"
   },
   {
     "categories": [
@@ -844,7 +857,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/irislib/iris-messenger"
   },
   {
     "categories": [
@@ -916,7 +930,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/quentintaranpino/nostrcheck-api-ts"
   },
   {
     "categories": [
@@ -1218,7 +1233,8 @@
     "url": "https://lightning-poker.com/?utm_source=getalby",
     "platforms": [
       "web"
-    ]
+    ],
+    "github": "https://github.com/j-chimienti/lightning-poker"
   },
   {
     "categories": [
@@ -1229,7 +1245,8 @@
     "url": "https://lightning-roulette.com/?utm_source=getalby",
     "platforms": [
       "web"
-    ]
+    ],
+    "github": "https://github.com/igreshev/lightning-roulette"
   },
   {
     "categories": [
@@ -1291,7 +1308,8 @@
     "image": "pages/discover/satoshi-s-place.png",
     "platforms": [
       "web"
-    ]
+    ],
+    "github": "https://github.com/LightningK0ala/satoshis.place"
   },
   {
     "categories": [
@@ -1350,7 +1368,8 @@
     "url": "https://simln.dev/?ref=getalby.com&utm_source=getalby",
     "platforms": [
       "web"
-    ]
+    ],
+    "github": "https://github.com/bitcoin-dev-project/sim-ln"
   },
   {
     "categories": [
@@ -1397,7 +1416,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/btcpayserver/btcpayserver"
   },
   {
     "categories": [
@@ -1519,7 +1539,8 @@
     ],
     "walletSubcategory": [
       "nwc_wallets"
-    ]
+    ],
+    "github": "https://github.com/lnbits/lnbits"
   },
   {
     "categories": [
@@ -1592,7 +1613,8 @@
     "walletSubcategory": [
       "nwc_wallets",
       "wallet_interfaces"
-    ]
+    ],
+    "github": "https://github.com/ZeusLN/zeus"
   },
   {
     "categories": [
@@ -1614,7 +1636,8 @@
     "url": "https://satoshisend.xyz/",
     "platforms": [
       "web"
-    ]
+    ],
+    "github": "https://github.com/alecsmrekar/satoshisend"
   },
   {
     "categories": [
@@ -1625,7 +1648,8 @@
     "url": "https://mullvad.net/?ref=getalby&utm_source=getalby",
     "platforms": [
       "web"
-    ]
+    ],
+    "github": "https://github.com/mullvad/mullvadvpn-app"
   },
   {
     "categories": [
@@ -1654,7 +1678,7 @@
       "privacy"
     ],
     "title": "Obscura",
-    "description": "Privacy-first VPN that can’t log your activity",
+    "description": "Privacy-first VPN that can\u2019t log your activity",
     "url": "https://obscura.net/?ref=getalby&utm_source=getalby",
     "platforms": [
       "web"
@@ -1691,7 +1715,8 @@
     "url": "https://tunnelsats.com/?ref=getalby&utm_source=getalby",
     "platforms": [
       "web"
-    ]
+    ],
+    "github": "https://github.com/Tunnelsats/tunnelsats"
   },
   {
     "categories": [
@@ -1756,7 +1781,8 @@
     "url": "https://cal.com/?utm_source=getalby",
     "platforms": [
       "web"
-    ]
+    ],
+    "github": "https://github.com/calcom/cal.com"
   },
   {
     "categories": [
@@ -1925,7 +1951,8 @@
     "url": "https://zap.cooking/?ref=getalby.com&utm_source=getalby",
     "platforms": [
       "web"
-    ]
+    ],
+    "github": "https://github.com/zapcooking/frontend"
   },
   {
     "categories": [
@@ -1947,7 +1974,8 @@
     "url": "https://zapin.me/?ref=getalby.com&utm_source=getalby",
     "platforms": [
       "web"
-    ]
+    ],
+    "github": "https://github.com/miguelmedeiros/zapin.me"
   },
   {
     "categories": [
@@ -2007,7 +2035,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/bramkanstein/startwithbitcoin"
   },
   {
     "categories": [
@@ -2150,7 +2179,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/zapstore/zapstore"
   },
   {
     "categories": [
@@ -2206,7 +2236,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/jinglescode/nostr.kiwi"
   },
   {
     "categories": [
@@ -2221,7 +2252,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/damus-io/notedeck"
   },
   {
     "categories": [
@@ -2257,7 +2289,8 @@
     ],
     "walletSubcategory": [
       "nwc_wallets"
-    ]
+    ],
+    "github": "https://github.com/ClubOrangeBitcoin/ClubOrange-releases"
   },
   {
     "categories": [
@@ -2272,7 +2305,8 @@
     ],
     "protocols": [
       "nwc"
-    ]
+    ],
+    "github": "https://github.com/frnandu/yana"
   },
   {
     "categories": [
@@ -2382,7 +2416,8 @@
     ],
     "walletSubcategory": [
       "wallet_interfaces"
-    ]
+    ],
+    "github": "https://github.com/SparrowTek/avocadough"
   },
   {
     "categories": [
