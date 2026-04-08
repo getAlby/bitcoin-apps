@@ -158,7 +158,7 @@ function App() {
                         {subcategoryCards.length > 0 ? (
                           <div className="mb-7 grid auto-rows-fr grid-cols-1 gap-5 sm:grid-cols-2">
                             {subcategoryCards.map((app) => (
-                              <AppCard key={`${category}-${subcategory}-${app.title}`} app={app} />
+                              <AppCard key={`${category}-${subcategory}-${app.title}`} app={app} searchQuery={searching ? filters.q : undefined} />
                             ))}
                           </div>
                         ) : (
@@ -179,7 +179,7 @@ function App() {
                 {cards.length > 0 ? (
                   <div className="mb-7 grid auto-rows-fr grid-cols-1 gap-5 sm:grid-cols-2">
                     {cards.map((app) => (
-                      <AppCard key={`${category}-${app.title}`} app={app} />
+                      <AppCard key={`${category}-${app.title}`} app={app} searchQuery={searching ? filters.q : undefined} />
                     ))}
                   </div>
                 ) : (
