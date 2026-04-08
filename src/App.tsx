@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { APPS } from "./data/apps";
 import {
   CATEGORY_LABELS,
@@ -27,8 +27,38 @@ import { FooterCta } from "./components/footer-cta";
 import { Card } from "./components/ui/card";
 import { assetPath } from "./lib/assets";
 
+// Track scroll progress from 0 to 1 over a given pixel distance
+// Uses requestAnimationFrame to avoid jank
+function useScrollProgress(thresholdPx = 200) {
+  const [progress, setProgress] = useState(0);
+  const tickingRef = useRef(false);
+
+  const handler = useCallback(() => {
+    if (tickingRef.current) return;
+    tickingRef.current = true;
+    requestAnimationFrame(() => {
+      const scrollY = window.scrollY || document.documentElement.scrollTop;
+      setProgress(Math.min(1, Math.max(0, scrollY / thresholdPx)));
+      tickingRef.current = false;
+    });
+  }, [thresholdPx]);
+
+  useEffect(() => {
+    window.addEventListener("scroll", handler, { passive: true });
+    return () => window.removeEventListener("scroll", handler);
+  }, [handler]);
+
+  return progress;
+}
+
+/** Interpolate between two values based on progress (0..1) */
+function lerp(a: number, b: number, t: number): number {
+  return a + (b - a) * t;
+}
+
 function App() {
   const [filters, setFilters] = useState<DiscoverFilters>(() => parseFiltersFromSearch(window.location.search));
+  const scrollProgress = useScrollProgress();
 
   useEffect(() => {
     document.title = "Bitcoin Apps Directory";
@@ -52,17 +82,60 @@ function App() {
 
   const searching = filters.q.trim().length > 0;
 
+  // --- Collapsible header state ---
+  const isCollapsed = scrollProgress >= 0.95;
+  const bannerOpacity = Math.max(0, 1 - scrollProgress * 2.5);
+  const titleScale = lerp(1, 0.65, scrollProgress);
+  const subtitleFade = Math.max(0, 1 - scrollProgress * 2);
+  const titleYOffset = lerp(0, 8, scrollProgress);
+
   return (
     <main className="bg-white">
-      <section>
-        <div className="discover-entry-image mx-auto mb-8 max-w-discover px-4 lg:px-0">
-          <img src={assetPath("images/discover/top-background.png")} alt="Discover apps banner" className="h-auto w-full object-cover" />
+      {/* Collapsible hero section */}
+      <section
+        className="discover-hero"
+        style={{
+          padding: isCollapsed ? "0" : "0 0 2rem 0",
+          maxHeight: lerp(520, 0, scrollProgress),
+          overflow: "hidden",
+          transition: "padding 150ms ease-out",
+        }}
+      >
+        {/* Banner image - fades out first */}
+        <div
+          className="discover-entry-image mx-auto mb-8 max-w-discover px-4 lg:px-0"
+          style={{ opacity: bannerOpacity, maxHeight: lerp(320, 0, scrollProgress * 1.5), overflow: "hidden" }}
+        >
+          <img
+            src={assetPath("images/discover/top-background.png")}
+            alt="Discover apps banner"
+            className="h-auto w-full object-cover"
+            style={{ transform: `scale(${lerp(1, 0.95, scrollProgress)})`, transition: "transform 100ms linear" }}
+          />
         </div>
+
+        {/* Title + subtitle */}
         <div className="mx-auto max-w-discover px-4 text-center">
-          <h1 className="discover-entry-title mx-auto mb-4 font-['Figtree'] text-5xl font-bold leading-[110%] tracking-[-0.01em] sm:mb-8 sm:text-7xl">
+          <h1
+            className="discover-entry-title mx-auto mb-4 font-['Figtree'] text-5xl font-bold leading-[110%] tracking-[-0.01em]"
+            style={{
+              fontSize: `clamp(${lerp(1.75, 1.25, scrollProgress)}rem, ${lerp(3, 1.5, scrollProgress)}vw, ${lerp(3, 1.5, scrollProgress)}rem)`,
+              transform: `scale(${titleScale}) translateY(${titleYOffset}px)`,
+              transformOrigin: "center top",
+              opacity: Math.max(0.25, 1 - scrollProgress * 0.75),
+            }}
+          >
             Bitcoin Apps Directory
           </h1>
-          <h2 className="discover-entry-subtitle mx-auto mb-16 max-w-2xl font-['Figtree'] text-xl font-normal leading-[130%] tracking-[-0.01em] text-gray-600">
+          <h2
+            className="discover-entry-subtitle mx-auto max-w-2xl font-['Figtree'] text-xl font-normal leading-[130%] tracking-[-0.01em] text-gray-600"
+            style={{
+              opacity: subtitleFade,
+              maxHeight: lerp(120, 0, scrollProgress * 1.5),
+              overflow: "hidden",
+              marginBottom: lerp(64, 0, scrollProgress),
+            }}
+          >
             A collection of apps, websites and services
             <br />
             to connect your bitcoin wallet to.
@@ -72,7 +145,24 @@ function App() {
 
       <div className="pb-0">
         <div className="mx-auto max-w-discover px-4 lg:px-0">
-          <SearchBar value={filters.q} onChange={(q) => setFilters((current) => ({ ...current, q }))} />
+          {/* Sticky search bar - becomes sticky when hero is collapsed */}
+          <div
+            className={isCollapsed ? "discover-search-sticky active" : "discover-search-sticky"}
+            style={{
+              position: isCollapsed ? "sticky" : "relative",
+              top: isCollapsed ? "0" : undefined,
+              zIndex: isCollapsed ? 50 : undefined,
+              background: isCollapsed ? "linear-gradient(180deg, rgba(255,255,255,0.97) 0%, rgba(255,255,255,0.92) 100%)" : undefined,
+              backdropFilter: isCollapsed ? "blur(12px)" : undefined,
+              padding: isCollapsed ? "12px 0 16px" : undefined,
+              marginBottom: isCollapsed ? "0" : undefined,
+              borderBottom: isCollapsed ? "1px solid rgba(0,0,0,0.06)" : undefined,
+              boxShadow: isCollapsed ? "0 1px 4px rgba(0,0,0,0.04)" : undefined,
+              transition: "padding 150ms ease-out",
+            }}
+          >
+            <SearchBar value={filters.q} onChange={(q) => setFilters((current) => ({ ...current, q }))} />
+          </div>
 
           {!searching && featured.length > 0 ? (
             <section className="mb-24 p-1">
