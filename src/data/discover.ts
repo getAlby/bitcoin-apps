@@ -8,7 +8,7 @@ import type {
 
 export const CATEGORY_ORDER: CategoryId[] = [
   "chats_and_communities",
-  "messangers",
+  "messengers",
   "entertainment",
   "streaming",
   "music",
@@ -29,7 +29,7 @@ export const CATEGORY_ORDER: CategoryId[] = [
 export const CATEGORY_LABELS: Record<CategoryId, string> = {
   ai: "AI",
   chats_and_communities: "Social Media",
-  messangers: "Messangers",
+  messengers: "Messengers",
   entertainment: "Entertainment",
   streaming: "Streaming",
   music: "Music",
@@ -49,7 +49,7 @@ export const CATEGORY_LABELS: Record<CategoryId, string> = {
 export const CATEGORY_PILL_LABELS: Record<CategoryId, string> = {
   ai: "🤖 AI",
   chats_and_communities: "🌐 Social Media",
-  messangers: "💬 Messangers",
+  messengers: "💬 Messengers",
   entertainment: "🎬 Entertainment",
   streaming: "📡 Streaming",
   music: "🎵 Music",
