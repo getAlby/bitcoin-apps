@@ -1,7 +1,7 @@
 export type CategoryId =
   | "ai"
   | "chats_and_communities"
-  | "messangers"
+  | "messengers"
   | "entertainment"
   | "streaming"
   | "music"
