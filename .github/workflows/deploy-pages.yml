@@ -31,6 +31,9 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Add CNAME for custom domain
+        run: echo "bitcoinapps.info" > dist/CNAME
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -39,6 +42,7 @@ jobs:
           publish_dir: ./dist
           # Preserve PR preview directories so they aren't wiped on main deploy
           keep_dirs: pr-preview
+          cname: bitcoinapps.info
           user_name: "github-actions[bot]"
           user_email: "github-actions[bot]@users.noreply.github.com"
           commit_message: "deploy: ${{ github.sha }}"
