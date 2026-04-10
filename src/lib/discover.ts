@@ -136,7 +136,6 @@ export function imagePathFor(app: DiscoverApp) {
 }
 
 export function matchesFilters(app: DiscoverApp, filters: DiscoverFilters) {
-  const titleAndDescription = LOWERCASE(`${app.title} ${app.description}`);
   const queryMatch = filters.q.length === 0 || fuzzySearchMatches(filters.q, app);
   const platformMatch = !filters.platform || platformsFor(app).includes(filters.platform);
   const protocolMatch = !filters.protocol || protocolsFor(app).includes(filters.protocol);
