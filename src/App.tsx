@@ -96,7 +96,6 @@ function App() {
         className="discover-hero"
         style={{
           padding: isCollapsed ? "0" : "0 0 2rem 0",
-          maxHeight: lerp(520, 0, scrollProgress),
           overflow: "hidden",
           transition: "padding 150ms ease-out",
         }}
@@ -104,7 +103,7 @@ function App() {
         {/* Banner image - fades out first */}
         <div
           className="discover-entry-image mx-auto mb-8 max-w-discover px-4 lg:px-0"
-          style={{ opacity: bannerOpacity, maxHeight: lerp(320, 0, scrollProgress * 1.5), overflow: "hidden" }}
+          style={{ opacity: bannerOpacity, overflow: "hidden" }}
         >
           <img
             src={assetPath("images/discover/top-background.png")}
@@ -145,24 +144,7 @@ function App() {
 
       <div className="pb-0">
         <div className="mx-auto max-w-discover px-4 lg:px-0">
-          {/* Sticky search bar - becomes sticky when hero is collapsed */}
-          <div
-            className={isCollapsed ? "discover-search-sticky active" : "discover-search-sticky"}
-            style={{
-              position: isCollapsed ? "sticky" : "relative",
-              top: isCollapsed ? "0" : undefined,
-              zIndex: isCollapsed ? 50 : undefined,
-              background: isCollapsed ? "linear-gradient(180deg, rgba(255,255,255,0.97) 0%, rgba(255,255,255,0.92) 100%)" : undefined,
-              backdropFilter: isCollapsed ? "blur(12px)" : undefined,
-              padding: isCollapsed ? "12px 0 16px" : undefined,
-              marginBottom: isCollapsed ? "0" : undefined,
-              borderBottom: isCollapsed ? "1px solid rgba(0,0,0,0.06)" : undefined,
-              boxShadow: isCollapsed ? "0 1px 4px rgba(0,0,0,0.04)" : undefined,
-              transition: "padding 150ms ease-out",
-            }}
-          >
-            <SearchBar value={filters.q} onChange={(q) => setFilters((current) => ({ ...current, q }))} />
-          </div>
+          <SearchBar value={filters.q} onChange={(q) => setFilters((current) => ({ ...current, q }))} />
 
           {!searching && featured.length > 0 ? (
             <section className="mb-24 p-1">
