@@ -1,7 +1,7 @@
 name: PR Preview
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize, reopened, closed]
 
 concurrency: pr-preview-${{ github.event.number }}
@@ -17,6 +17,8 @@ jobs:
       - name: Checkout PR head
         if: github.event.action != 'closed'
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Setup Node
         if: github.event.action != 'closed'
@@ -33,7 +35,6 @@ jobs:
         if: github.event.action != 'closed'
         run: npm run build
         env:
-          # Vite reads this to set <base href> for assets — deploys to /pr-preview/pr-N/
           VITE_BASE_URL: /pr-preview/pr-${{ github.event.number }}/
 
       - name: Deploy PR preview
