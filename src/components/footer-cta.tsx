@@ -25,7 +25,7 @@ export function FooterCta() {
                 Integrate Bitcoin in Your App
               </Button>
             </a>
-            <a href="https://form.jotform.com/232284367043051" target="_blank" rel="noopener noreferrer">
+            <a href="mailto:hello@getalby.com">
               <Button size="filter" className="!border-0 !bg-white/80 hover:!border-0 hover:!bg-white/80">
                 Feature Your App
               </Button>
