@@ -19,7 +19,7 @@
       "ai"
     ],
     "title": "Alby Bitcoin Builder Skill",
-    "description": "Generate Lightning-powered apps, payment flows, and wallet logic in minutes \u2014 ready to test and ship.",
+    "description": "Generate Lightning-powered apps, payment flows, and wallet logic in minutes — ready to test and ship.",
     "url": "https://github.com/getAlby/alby-agent-skill?tab=readme-ov-file&utm_source=getalby",
     "platforms": [
       "desktop"
@@ -34,7 +34,7 @@
       "ai"
     ],
     "title": "Alby Bitcoin Wallet Skill",
-    "description": "Give your agent its own wallet \u2014 and let it operate independently. Perfect for autonomous agents like OpenClaw.",
+    "description": "Give your agent its own wallet — and let it operate independently. Perfect for autonomous agents like OpenClaw.",
     "url": "https://github.com/getAlby/alby-cli-skill?tab=readme-ov-file&utm_source=getalby",
     "platforms": [
       "desktop"
@@ -82,7 +82,7 @@
       "ai"
     ],
     "title": "PayPerQ",
-    "description": "GPT4, DALL\u00b7E, and more AI chatbots using pay-per-usage model",
+    "description": "GPT4, DALL·E, and more AI chatbots using pay-per-usage model",
     "url": "https://ppq.ai/invite/6366bd9e?utm_source=getalby",
     "platforms": [
       "web"
@@ -508,7 +508,7 @@
       "rewards"
     ],
     "title": "sMiles",
-    "description": "Earn sats by playing games, watching ads, and even\u2026 walking",
+    "description": "Earn sats by playing games, watching ads, and even… walking",
     "url": "https://www.smilesbitcoin.com/?ref=getalby.com&utm_source=getalby",
     "platforms": [
       "web",
@@ -1291,19 +1291,6 @@
     "categories": [
       "gaming"
     ],
-    "title": "Satoshi's Place",
-    "description": "Collaborative artboard powered by Lightning",
-    "url": "https://satoshis.place/?utm_source=getalby",
-    "image": "pages/discover/satoshi-s-place.png",
-    "platforms": [
-      "web"
-    ],
-    "github": "https://github.com/LightningK0ala/satoshis.place"
-  },
-  {
-    "categories": [
-      "gaming"
-    ],
     "title": "Zappy Bird",
     "description": "Classic game of flappy bird where points are sats",
     "url": "https://rolznz.github.io/zappy-bird/?ref=getalby.com&utm_source=getalby",
@@ -1667,7 +1654,7 @@
       "privacy"
     ],
     "title": "Obscura",
-    "description": "Privacy-first VPN that can\u2019t log your activity",
+    "description": "Privacy-first VPN that can’t log your activity",
     "url": "https://obscura.net/?ref=getalby&utm_source=getalby",
     "platforms": [
       "web"
