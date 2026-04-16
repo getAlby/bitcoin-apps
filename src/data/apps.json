@@ -2024,6 +2024,9 @@
       "web",
       "desktop"
     ],
+    "protocols": [
+      "nwc"
+    ],
     "github": "https://github.com/refined-element/lightning-enable-mcp"
   },
   {
