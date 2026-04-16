@@ -2222,6 +2222,7 @@
     "title": "OP_RETURN Social",
     "description": "A permissionless social protocol built on bitcoin",
     "url": "https://opreturn.social/?utm_source=getalby",
+    "image": "pages/discover/opreturn-social.png",
     "platforms": [
       "web"
     ],
