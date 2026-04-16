@@ -2222,6 +2222,27 @@
     "categories": [
       "chats_and_communities"
     ],
+    "title": "OP_RETURN Social",
+    "description": "A permissionless social protocol built on bitcoin",
+    "url": "https://opreturn.social/?utm_source=getalby",
+    "image": "pages/discover/opreturn-social.png",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc",
+      "webln"
+    ],
+    "products": [
+      "alby_extension",
+      "alby_hub"
+    ],
+    "github": "https://github.com/opreturnsocial/opreturn.social"
+  },
+  {
+    "categories": [
+      "chats_and_communities"
+    ],
     "title": "Olas",
     "description": "Instagram-like Nostr app for iOS",
     "url": "https://olas.app/?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
