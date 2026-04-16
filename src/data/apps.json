@@ -2227,10 +2227,12 @@
       "web"
     ],
     "protocols": [
-      "nwc"
+      "nwc",
+      "webln"
     ],
     "products": [
-      "alby_extension"
+      "alby_extension",
+      "alby_hub"
     ],
     "github": "https://github.com/opreturnsocial/opreturn.social"
   },
