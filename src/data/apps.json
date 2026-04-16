@@ -1291,19 +1291,6 @@
     "categories": [
       "gaming"
     ],
-    "title": "Satoshi's Place",
-    "description": "Collaborative artboard powered by Lightning",
-    "url": "https://satoshis.place/?utm_source=getalby",
-    "image": "pages/discover/satoshi-s-place.png",
-    "platforms": [
-      "web"
-    ],
-    "github": "https://github.com/LightningK0ala/satoshis.place"
-  },
-  {
-    "categories": [
-      "gaming"
-    ],
     "title": "Zappy Bird",
     "description": "Classic game of flappy bird where points are sats",
     "url": "https://rolznz.github.io/zappy-bird/?ref=getalby.com&utm_source=getalby",
