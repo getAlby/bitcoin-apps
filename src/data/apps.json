@@ -2015,6 +2015,22 @@
   },
   {
     "categories": [
+      "ai"
+    ],
+    "title": "Lightning Enable",
+    "description": "Middleware that lets AI agents pay for API access with Bitcoin Lightning \u2014 payment is authentication, no accounts or API keys required",
+    "url": "https://lightningenable.com/?utm_source=getalby",
+    "platforms": [
+      "web",
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "github": "https://github.com/refined-element/lightning-enable-mcp"
+  },
+  {
+    "categories": [
       "trading"
     ],
     "title": "Bitcoin Well",
