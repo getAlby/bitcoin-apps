@@ -993,6 +993,17 @@
   },
   {
     "categories": [
+      "wallets"
+    ],
+    "title": "Piggy",
+    "description": "Self-custody Bitcoin piggy bank with Lightning addresses and an AI-powered personality that grows with your savings",
+    "url": "https://pig.gy/?utm_source=getalby",
+    "platforms": [
+      "ios"
+    ]
+  },
+  {
+    "categories": [
       "chats_and_communities",
       "wallets"
     ],
