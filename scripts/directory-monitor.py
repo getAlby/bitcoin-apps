@@ -17,6 +17,7 @@ import ssl
 import re
 import urllib.request
 import urllib.error
+import urllib.parse
 from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -30,10 +31,21 @@ GITHUB_RE = re.compile(r'github\.com/([^/]+/[^/]+)')
 
 # ─── Check 1: URL Health ────────────────────────────────────────────
 
+TRACKING_QUERY_PARAMS = {"ref", "utm_source", "utm_medium", "utm_campaign", "utm_content", "utm_term"}
+
+
+def health_check_url(url):
+    """Remove tracking query parameters while preserving app-required params."""
+    parsed = urllib.parse.urlsplit(url)
+    query = urllib.parse.parse_qsl(parsed.query, keep_blank_values=True)
+    query = [(key, value) for key, value in query if key not in TRACKING_QUERY_PARAMS]
+    return urllib.parse.urlunsplit(parsed._replace(query=urllib.parse.urlencode(query, doseq=True)))
+
+
 def check_url(app):
     """HTTP health check for an app URL."""
     title = app["title"]
-    url = app["url"].split("?")[0]
+    url = health_check_url(app["url"])
     try:
         req = urllib.request.Request(url, method="HEAD")
         req.add_header("User-Agent", "Mozilla/5.0 (BitcoinAppsMonitor/1.0)")
