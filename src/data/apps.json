@@ -19,7 +19,7 @@
       "ai"
     ],
     "title": "Alby Bitcoin Builder Skill",
-    "description": "Generate Lightning-powered apps, payment flows, and wallet logic in minutes \u2014 ready to test and ship.",
+    "description": "Generate Lightning-powered apps, payment flows, and wallet logic in minutes — ready to test and ship.",
     "url": "https://github.com/getAlby/alby-agent-skill?tab=readme-ov-file&utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
     "platforms": [
       "desktop"
@@ -34,7 +34,7 @@
       "ai"
     ],
     "title": "Alby Bitcoin Wallet Skill",
-    "description": "Give your agent its own wallet \u2014 and let it operate independently. Perfect for autonomous agents like OpenClaw.",
+    "description": "Give your agent its own wallet — and let it operate independently. Perfect for autonomous agents like OpenClaw.",
     "url": "https://github.com/getAlby/alby-cli-skill?tab=readme-ov-file&utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
     "platforms": [
       "desktop"
@@ -82,7 +82,7 @@
       "ai"
     ],
     "title": "PayPerQ",
-    "description": "GPT4, DALL\u00b7E, and more AI chatbots using pay-per-usage model",
+    "description": "GPT4, DALL·E, and more AI chatbots using pay-per-usage model",
     "url": "https://ppq.ai/invite/6366bd9e?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
     "platforms": [
       "web"
@@ -141,17 +141,6 @@
     "title": "Shakespeare",
     "description": "Build apps with AI",
     "url": "https://shakespeare.diy/?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
-    "platforms": [
-      "web"
-    ]
-  },
-  {
-    "categories": [
-      "messengers"
-    ],
-    "title": "Chachi",
-    "description": "Relay-based group chats for Nostr",
-    "url": "https://chachi.chat/?ref=getalby.com&utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
     "platforms": [
       "web"
     ]
@@ -508,7 +497,7 @@
       "rewards"
     ],
     "title": "sMiles",
-    "description": "Earn sats by playing games, watching ads, and even\u2026 walking",
+    "description": "Earn sats by playing games, watching ads, and even… walking",
     "url": "https://www.smilesbitcoin.com/?ref=getalby.com&utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
     "platforms": [
       "web",
@@ -833,20 +822,6 @@
   },
   {
     "categories": [
-      "publisher_tools"
-    ],
-    "title": "Habla",
-    "description": "Read, write, curate and monetize long form content",
-    "url": "https://habla.news/?ref=getalby.com&utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
-    "platforms": [
-      "web"
-    ],
-    "protocols": [
-      "nwc"
-    ]
-  },
-  {
-    "categories": [
       "chats_and_communities"
     ],
     "title": "Iris",
@@ -1133,17 +1108,6 @@
     ],
     "protocols": [
       "nwc"
-    ]
-  },
-  {
-    "categories": [
-      "trading"
-    ],
-    "title": "Robosats",
-    "description": "Super private Lightning P2P exchange and on-chain swaps",
-    "url": "https://learn.robosats.org/?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
-    "platforms": [
-      "web"
     ]
   },
   {
@@ -1654,7 +1618,7 @@
       "privacy"
     ],
     "title": "Obscura",
-    "description": "Privacy-first VPN that can\u2019t log your activity",
+    "description": "Privacy-first VPN that can’t log your activity",
     "url": "https://obscura.net/?ref=getalby&utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
     "platforms": [
       "web"
@@ -1759,17 +1723,6 @@
       "web"
     ],
     "github": "https://github.com/calcom/cal.com"
-  },
-  {
-    "categories": [
-      "misc"
-    ],
-    "title": "Dtan.xyz",
-    "description": "Decentralized torrent tracker and search engine",
-    "url": "https://dtan.xyz/?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
-    "platforms": [
-      "web"
-    ]
   },
   {
     "categories": [
@@ -2005,7 +1958,7 @@
       "ai"
     ],
     "title": "Lightning Enable",
-    "description": "Middleware that lets AI agents pay for API access with Bitcoin Lightning \u2014 payment is authentication, no accounts or API keys required",
+    "description": "Middleware that lets AI agents pay for API access with Bitcoin Lightning — payment is authentication, no accounts or API keys required",
     "url": "https://lightningenable.com/?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
     "platforms": [
       "web",
