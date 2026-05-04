@@ -147,17 +147,6 @@
   },
   {
     "categories": [
-      "messengers"
-    ],
-    "title": "Chachi",
-    "description": "Relay-based group chats for Nostr",
-    "url": "https://chachi.chat/?ref=getalby.com&utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
-    "platforms": [
-      "web"
-    ]
-  },
-  {
-    "categories": [
       "streaming"
     ],
     "title": "CornyChat",
@@ -833,20 +822,6 @@
   },
   {
     "categories": [
-      "publisher_tools"
-    ],
-    "title": "Habla",
-    "description": "Read, write, curate and monetize long form content",
-    "url": "https://habla.news/?ref=getalby.com&utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
-    "platforms": [
-      "web"
-    ],
-    "protocols": [
-      "nwc"
-    ]
-  },
-  {
-    "categories": [
       "chats_and_communities"
     ],
     "title": "Iris",
@@ -1133,17 +1108,6 @@
     ],
     "protocols": [
       "nwc"
-    ]
-  },
-  {
-    "categories": [
-      "trading"
-    ],
-    "title": "Robosats",
-    "description": "Super private Lightning P2P exchange and on-chain swaps",
-    "url": "https://learn.robosats.org/?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
-    "platforms": [
-      "web"
     ]
   },
   {
@@ -1465,7 +1429,7 @@
     ],
     "title": "Flash Wallet",
     "description": "Easy non-custodial bitcoin lightning wallet",
-    "url": "https://paywithflash.com/wallet/?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
+    "url": "https://paywithflash.com/?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
     "platforms": [
       "ios",
       "android"
@@ -1759,17 +1723,6 @@
       "web"
     ],
     "github": "https://github.com/calcom/cal.com"
-  },
-  {
-    "categories": [
-      "misc"
-    ],
-    "title": "Dtan.xyz",
-    "description": "Decentralized torrent tracker and search engine",
-    "url": "https://dtan.xyz/?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
-    "platforms": [
-      "web"
-    ]
   },
   {
     "categories": [
