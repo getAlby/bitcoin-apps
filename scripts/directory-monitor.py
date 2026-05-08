@@ -33,7 +33,9 @@ GITHUB_RE = re.compile(r'github\.com/([^/]+/[^/]+)')
 def check_url(app):
     """HTTP health check for an app URL."""
     title = app["title"]
-    url = app["url"].split("?")[0]
+    # Use the exact URL from apps.json. Some platforms (e.g. Google Play)
+    # require query parameters like ?id=... and break if we strip them.
+    url = app["url"]
     try:
         req = urllib.request.Request(url, method="HEAD")
         req.add_header("User-Agent", "Mozilla/5.0 (BitcoinAppsMonitor/1.0)")
