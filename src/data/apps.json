@@ -2391,5 +2391,40 @@
     "protocols": [
       "nwc"
     ]
+  },
+  {
+    "categories": [
+      "payments"
+    ],
+    "title": "Ambrosia PoS",
+    "description": "Open-source Lightning point of sale for macOS and Windows with inventory, sales reports, staff permissions, and NWC or Phoenixd integration.",
+    "url": "https://ambrosiapay.com/en/?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
+    "platforms": [
+      "desktop"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "image": "pages/discover/ambrosia-pos.png"
+  },
+  {
+    "categories": [
+      "chats_and_communities",
+      "wallets",
+      "ai"
+    ],
+    "title": "zappr",
+    "description": "Nostr social client and NWC wallet interface with an AI assistant for feed summaries and user-approved Lightning payments.",
+    "url": "https://www.usezappr.xyz/?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "image": "pages/discover/zappr.png",
+    "walletSubcategory": [
+      "wallet_interfaces"
+    ]
   }
 ]
