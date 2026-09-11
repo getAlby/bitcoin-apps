@@ -2432,5 +2432,21 @@
       "nwc"
     ],
     "image": "pages/discover/wisp.png"
+  },
+  {
+    "categories": [
+      "rewards",
+      "misc"
+    ],
+    "title": "Bitcoin Education Archive",
+    "description": "Learn Bitcoin through guided quests, quizzes, and games, earn sats, and tip other learners with a connected Lightning wallet.",
+    "url": "https://bitcoineducation.quest/?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
+    "platforms": [
+      "web"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "image": "pages/discover/bitcoin-education-archive.png"
   }
 ]
