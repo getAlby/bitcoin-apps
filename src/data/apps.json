@@ -2426,5 +2426,22 @@
     "walletSubcategory": [
       "wallet_interfaces"
     ]
+  },
+  {
+    "categories": [
+      "chats_and_communities",
+      "messengers",
+      "streaming"
+    ],
+    "title": "Wisp",
+    "description": "Android Nostr client with social feeds, encrypted messages, chat rooms, live streams, and Lightning zaps via NWC.",
+    "url": "https://wisp.mobile/?utm_source=bitcoinapps.info&utm_medium=referral&utm_campaign=bitcoinapps.info-referral",
+    "platforms": [
+      "android"
+    ],
+    "protocols": [
+      "nwc"
+    ],
+    "image": "pages/discover/wisp.png"
   }
 ]
